@@ -4,8 +4,12 @@ body {
   font-family: 'Ubuntu', sans-serif;
 }
 .form {
-  margin-top: 20rem ! important;
+  margin-left: 26rem ! important;
+  margin-top: 18rem ! important;
 }
-.container {
-  display: inline-block ! important;
+.home {
+  background-color: steelblue;
+}
+.footer {
+  margin-top: 18rem;
 }
