@@ -1,0 +1,21 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Edwin Moses portfolio",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Edwin",
+    "Moses",
+    "Lomolo",
+    "Edwin",
+    "Moses",
+    "Lomolo",
+    "Chanzu",
+    "portfolio"
+  ],
+  "author": "Edwin Moses",
+  "license": "MIT"
+}
